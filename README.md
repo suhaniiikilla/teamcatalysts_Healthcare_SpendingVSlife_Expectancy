@@ -33,7 +33,7 @@ The dataset contains data for multiple years across countries, allowing for both
 
 The data used in this project is sourced from Kaggle. You can access the dataset through the following link:
 
-- [Life Expectancy and Health Expenditure Data](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-and-health-expenditure)
+- [Life Expectancy and Health Expenditure Data](https://www.kaggle.com/code/jofrhwld/plot-of-life-expectancy-vs-health-expenditure?select=life-expectancy-vs-health-expenditure.csv)
 
 ## Analysis & Approach
 
