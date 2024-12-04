@@ -1,0 +1,84 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #0073e6;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+}
+
+/* Filters Section */
+#filters {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+#filters h2 {
+    margin-top: 0;
+}
+
+.dropdowns {
+    display: flex;
+    gap: 20px;
+}
+
+label, select {
+    font-size: 1rem;
+}
+
+/* Statistics Section */
+#statistics {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+#statistics h2 {
+    margin-top: 0;
+}
+
+/* Graph Section */
+#visualization {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+#graph {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #0073e6;
+    color: white;
+}

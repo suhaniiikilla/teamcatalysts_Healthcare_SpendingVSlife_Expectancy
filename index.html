@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Life Expectancy vs Health Expenditure</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Life Expectancy and Health Expenditure</h1>
+        <p>Explore global trends in life expectancy and healthcare investment.</p>
+    </header>
+
+    <main>
+        <section id="filters">
+            <h2>Filters</h2>
+            <div class="dropdowns">
+                <label for="year-select">Select Year:</label>
+                <select id="year-select">
+                    <option value="">-- All Years --</option>
+                </select>
+
+                <label for="country-select">Select Country:</label>
+                <select id="country-select">
+                    <option value="">-- All Countries --</option>
+                </select>
+            </div>
+        </section>
+
+        <section id="statistics">
+            <h2>Statistics</h2>
+            <div id="stats">
+                <p>Select filters to view the statistics.</p>
+            </div>
+        </section>
+
+        <section id="visualization">
+            <h2>Graph</h2>
+            <canvas id="graph" width="800" height="400"></canvas>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Life Expectancy Analysis</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
