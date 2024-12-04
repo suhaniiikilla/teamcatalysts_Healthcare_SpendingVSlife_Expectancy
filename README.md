@@ -1,14 +1,27 @@
-Here's the updated `README.md` structure based on your requirements:
-
----
-
 # Life Expectancy vs Health Expenditure
 
 ## Group Members
-- **SUHANI KILLA** - Roll Number: KU2407U382 
-- **GAUTAM PRAJAPATI** - Roll Number: KU2407U351 
+- **SUHANI KILLA** - Roll Number: KU2407U382
+   - Developed Python scripts in the src/ folder for data analysis and visualization.
+    Implemented functionality to save outputs and processed data in the appropriate directories.
+
+
 - **AYUSI PATEL** - Roll Number: KU2407U693
-- **ADITYA SINGH VAGHELA** - Roll Number: [Roll 3]
+     - Authored the README.md file, documenting project objectives, methodology, and structure.
+      Managed the docs/ folder and added necessary resources to the assets/ folder.
+
+
+- **GAUTAM PRAJAPATI** - Roll Number: KU2407U351
+    -  Organized and cleaned raw data files in the data/ folder.
+       Performed statistical analysis using data.describe() and ensured all processed data was saved correctly in the       
+       output/ folder.
+
+ 
+- **ADITYA SINGH VAGHELA** - Roll Number: KU2407U457
+      -Generated visualizations and charts for the project, saved in the visuals/ folder.
+      Ensured visual outputs were relevant and aligned with project goals.
+
+
 ## Objective of the Project
 The objective of this project is to analyze the relationship between life expectancy and health expenditure across various countries. Using statistical tools and visualization techniques, the project explores patterns and trends to derive meaningful insights.
 
